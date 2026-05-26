@@ -29,9 +29,10 @@ Realizar os exercícios propostos utilizando Python e enviar as respostas atrav�
 - Todos os arquivos devem estar em Python (.py).
 
 ## Sugestão de organização
-
+```bash
 respostas/
 ├── nome_aluno/
 │   ├── aula1/
 │   ├── aula2/
 │   └── aula3/
+```
